@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'cyber-tomb-sweeping-service',
+      name: 'ciba-service',
       script: 'dist/main.js',
       watch: '.'
     }
